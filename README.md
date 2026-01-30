@@ -1,9 +1,9 @@
-## 👋 About Me
+# 👋 About Me
 
 Hi 👋  
 I'm **Bipul Kumar**.
 
-🎓 BSc Computer Science & Data Analytics (3rd Sem)  
+🎓 BSc Computer Science & Data Analytics 
 🏫 IIT Patna  
 
 - 💻 Full Stack Web Development (MERN Stack)
@@ -49,9 +49,9 @@ I'm **Bipul Kumar**.
 ---
 ## 📊 GitHub Stats (Dark / Neon)
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=1022bipul&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bipulraj101-2386&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=1022bipul&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bipulraj101-2386&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
