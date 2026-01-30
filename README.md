@@ -7,7 +7,7 @@ I'm **Bipul Kumar**.
 🏫 IIT Patna  
 
 - 💻 Full Stack Web Development (MERN Stack)
-- 🌱 Currently learning **Machine Learning** & **React Native**
+- 🌱 Currently learning **DSA** & **React Native**
 - 🚀 Learning by building real-world projects
 - 🎥 Sharing my journey on YouTube: **Code Wali Zindagi**
 
@@ -50,14 +50,15 @@ I'm **Bipul Kumar**.
 
 ## 📊 GitHub Stats (Dark / Neon)
 
-![Bipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=1022bipul&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1022bipul&layout=compact&theme=tokyonight&hide_border=true)
+![Bipul's GitHub stats](<img src="https://github-readme-stats.vercel.app/api?username=1022bipul&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+)
+![Top Langs](<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1022bipul&layout=compact&theme=tokyonight&hide_border=true" height="170"/>)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=1022bipul&theme=tokyonight&hide_border=true)
+![GitHub Streak](<img src="https://streak-stats.demolab.com?user=1022bipul&theme=tokyonight&hide_border=true"/>)
 
 ---
 
