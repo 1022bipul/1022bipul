@@ -1,7 +1,7 @@
 ## 👋 About Me
 
-Hi there 👋  
-Nice to meet you, I'm **Bipul Kumar**.
+Hi 👋  
+I'm **Bipul Kumar**.
 
 🎓 BSc Computer Science & Data Analytics (3rd Sem)  
 🏫 IIT Patna  
