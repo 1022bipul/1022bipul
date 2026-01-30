@@ -47,18 +47,17 @@ I'm **Bipul Kumar**.
 - 🧩 **CouncellingApp**
 
 ---
-
 ## 📊 GitHub Stats (Dark / Neon)
 
-![Bipul's GitHub stats](<img src="https://github-readme-stats.vercel.app/api?username=1022bipul&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-)
-![Top Langs](<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1022bipul&layout=compact&theme=tokyonight&hide_border=true" height="170"/>)
+<img src="https://github-readme-stats.vercel.app/api?username=1022bipul&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1022bipul&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](<img src="https://streak-stats.demolab.com?user=1022bipul&theme=tokyonight&hide_border=true"/>)
+<img src="https://streak-stats.demolab.com?user=1022bipul&theme=tokyonight&hide_border=true" />
 
 ---
 
