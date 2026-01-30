@@ -49,9 +49,8 @@ I'm **Bipul Kumar**.
 ---
 ## 📊 GitHub Stats (Dark / Neon)
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bipulraj101-2386&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bipulraj101-2386&layout=compact&theme=tokyonight&hide_border=true" />
+![Bipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=1022bipul&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1022bipul&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
